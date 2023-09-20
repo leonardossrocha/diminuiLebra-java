@@ -9,7 +9,7 @@ Este projeto foi escrito em java para apresentar, brevemente, o tratamento de ex
 
 ## O código
 
-O projeto está disponível nesse repositório completamente. Você pode utilizá-lo para estudar e fazer testes. Leia os comentários pois no mesmo código consta:
+O projeto está disponível de forma completa nesse repositório. Você pode utilizá-lo para estudar e fazer testes. Leia os comentários pois no mesmo código consta:
 
 ### ``Funcionalidade 1``
 aquela responsável por lançar a exceção, ou seja, o código que faz com que a exceção em questão apareça.
